@@ -47,7 +47,8 @@ hoh = {:label=> "Kingdom"
         {
          :label=> "Phylum"
          :sub_category=>   
-              :Class=> {
+              :Class=> 
+          {
               
                 :Order=> {
               
