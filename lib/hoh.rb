@@ -49,6 +49,8 @@ hoh = {:label=> "Kingdom"
          :sub_category=>   
           {
             :label=> "Class"
+            :sub_category=>
+             {
                 :Order=> {
               
                     :Family=> {
