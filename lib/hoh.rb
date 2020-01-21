@@ -44,15 +44,15 @@ def naming_system
   
 kingdom = {
             :Phylum=>{
-                      :Class=> {
-                                  :Order=> {
-                                              :Family=> {
-                                                          :Genus=> {
-                                                                      :Species => nil
-                                                                    }
-                                                        }
-                                            }
-                                }  
+              :Class=> {
+                :Order=> {
+                    :Family=> {
+                      :Genus=> {
+                        :Species => nil
+                               }
+                              }
+                          }
+                        }  
                      }
           }
 
