@@ -63,13 +63,7 @@ hoh = {:label=> "Kingdom"
                       :label=>"Species"
                       :sub_category=> nil
                       
-                    }
-                   }
-                }
-             }
-          }
-        }
-}
+
 hoh
 
 end
