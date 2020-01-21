@@ -47,7 +47,9 @@ kingdom = {
                       :Class=> {
                                   :Order=> {
                                               :Family=> {
-                                                          :
+                                                          :Genus=> {
+                                                                      :Species => nil
+                                                                    }
                                                         }
                                             }
                                 }  
