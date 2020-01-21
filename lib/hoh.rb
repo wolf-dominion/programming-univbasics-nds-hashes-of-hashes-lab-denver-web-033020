@@ -54,20 +54,22 @@ hoh = {:label=> "Kingdom"
                :label=>"Order"
                :sub_category=>
                 {
-                  :label=>""
+                  :label=>"Family"
                   :sub_category=>
-                
-                    :Family=> {
-              
-                      :Genus=> {
-              
-                        :Species => nil
-                               }
-                              }
-                          }
-                        }  
-                     }
+                   {
+                     :label=>"Genus"
+                     :sub_category=>
+                    {
+                      :label=>"Species"
+                      :sub_category=> nil
+                      
+                    }
+                   }
+                }
+             }
           }
-  hoh
+        }
+}
+
 
 end
